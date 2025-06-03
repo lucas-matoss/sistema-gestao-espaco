@@ -25,13 +25,13 @@ O Insomnia foi utilizado para disparar as requisições e testar os endpoints da
 
 ## 📡 Endpoints Disponíveis
 
-### 📌 Usuário
-- `GET /usuarios` — Listar todos os usuários
-- `POST /usuarios` — Cadastrar um novo usuário
+### 📌 Usuários
+- `GET /usuario` — Listar todos os usuários
+- `POST /usuario` — Cadastrar um novo usuário
 
 ### 📌 Solicitação
-- `GET /solicitacoes` — Consultar solicitações
-- `POST /solicitacoes` — Criar nova solicitação
+- `GET /solicitacao` — Consultar solicitações
+- `POST /solicitacao` — Criar nova solicitação
 
 ### 📌 Histórico de Avaliação
 - `GET /historicoAvaliacao` — Consultar histórico de avaliações
