@@ -64,4 +64,7 @@ Os scripts SQL utilizados para criação e popularização do banco de dados Pos
 - `create_tables.sql` — Criação das tabelas
 - `insert_data.sql` — Inserts de dados iniciais
 - `dql_queries.sql` — Consultas diretas no banco
-  
+
+## Autor
+
+Lucas Matos Azevedo Cruz
