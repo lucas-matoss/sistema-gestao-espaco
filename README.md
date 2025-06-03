@@ -26,5 +26,11 @@ O projeto usa **PostgreSQL**. Estrutura das tabelas:
 - **historico_avaliacao**
 - **auditoria**
 
-Scripts de criação de tabelas e inserção de dados iniciais estão disponíveis no projeto.
+## 📦 Scripts de Banco de Dados
+
+Os scripts SQL utilizados para criação e popularização do banco de dados PostgreSQL estão na pasta [`/sql`](./sql):
+
+- `create_tables.sql` — Criação das tabelas
+- `insert_data.sql` — Inserts de dados iniciais
+- `dql_queries.sql` — Consultas diretas no banco
 
