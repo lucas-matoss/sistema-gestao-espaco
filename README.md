@@ -1,4 +1,4 @@
-# 📊 Sistema de Gestão de Espaços
+# Sistema de Gestão de Espaços
 
 API desenvolvida em **Java com Spring Boot** para gerenciamento de reservas e solicitações de uso de espaços físicos, como auditórios, salas de reunião e ginásios. A aplicação utiliza **PostgreSQL** como banco de dados relacional, com integração via **Spring Data JPA**.
 
