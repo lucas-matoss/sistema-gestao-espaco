@@ -23,7 +23,7 @@ A API permite que usuários possam:
 
 O Insomnia foi utilizado para disparar as requisições e testar os endpoints da API durante o desenvolvimento.
 
-## 📡 Endpoints Disponíveis
+## Endpoints Disponíveis
 
 ### Usuários
 - `GET /usuario` — Listar todos os usuários
